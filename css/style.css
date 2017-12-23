@@ -60,7 +60,7 @@ header > nav img {
 .hero {
     width: 100%;
     height: 650px; /*100vh w mob*/
-    background-image: url("https://images.pexels.com/photos/170/apple-laptop-notebook-notes.jpg?w=940&h=650&auto=compress&cs=tinysrgb");
+    background-image: url("https://images.unsplash.com/1/macbook-air-all-faded-and-stuff.jpg?auto=format&fit=crop&w=750&q=80");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -242,7 +242,7 @@ section>.container {
     position: relative;
 }
 .apple {
-    background-image: url("https://images.pexels.com/photos/170/apple-laptop-notebook-notes.jpg?w=940&h=650&auto=compress&cs=tinysrgb");
+    background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
     height: 200px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -260,7 +260,7 @@ section>.container {
     position: relative;
 }
 .bussmall {
-    background-image: url("https://images.pexels.com/photos/5117/people-feet-train-travelling.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+    background-image: url("https://images.unsplash.com/photo-1421977870504-378093748ae6?auto=format&fit=crop&w=750&q=80");
     height: 200px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -278,7 +278,7 @@ section>.container {
     position: relative;
 }
 .busbig {
-    background-image: url("https://images.pexels.com/photos/5117/people-feet-train-travelling.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+    background-image: url("https://images.unsplash.com/photo-1421977870504-378093748ae6?auto=format&fit=crop&w=750&q=80");
     height: 200px;
     max-width: 66.66%;
     background-size: cover;
